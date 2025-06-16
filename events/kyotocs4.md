@@ -1,6 +1,6 @@
 ---
 title: Kyoto.cs#4
-hold:
+schedule:
     start: 2025-07-02 19:00
     end: 2025-07-02 21:00
 ---
